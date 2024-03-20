@@ -14,5 +14,3 @@ Le tout avec un UI optimale pour l'utilisateur.
 ## Installation
 
 Commencez par installer les dépendences avec la commande : npm i
-
-Ce projet a été mené lors d'un challenge de formation Udemy.
